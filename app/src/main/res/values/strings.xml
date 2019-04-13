@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CIAssignment</string>
+    <string name="register_success_message">Registered Successfully</string>
+    <string name="required_field_message">All fields are required</string>
+    <string name="password_mismatch">Password do not matched with confirm password </string>
+    <string name="wrong_login_data">Invalid UserID and Password  </string>
 </resources>

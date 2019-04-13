@@ -41,7 +41,7 @@
             android:id="@+id/btnLogin"
             android:layout_width="159dp"
             android:layout_height="wrap_content"
-            android:text="Sign in"
+            android:text="Login"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="15dp"
             android:background="@color/colorPrimary"
